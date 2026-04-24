@@ -74,27 +74,21 @@ Key features such as chest pain type, maximum heart rate, and ST depression (old
 ## 📊 Visualizations
 
 ### 🔹 Correlation Heatmap
-
 ![Correlation Heatmap](images/heatmap.png)
 
 ### 🔹 Age Distribution
-
 ![Age Distribution](images/age_distribution.png)
 
 ### 🔹 Cholesterol vs Heart Disease
-
 ![Cholesterol](images/cholesterol_vs_target.png)
 
 ### 🔹 Chest Pain Type vs Heart Disease
-
 ![Chest Pain](images/cp_vs_target.png)
 
 ### 🔹 Max Heart Rate vs Heart Disease
-
 ![Thalach](images/thalach_vs_target.png)
 
 ### 🔹 Exercise-Induced Angina vs Heart Disease
-
 ![Exang](images/exang_vs_target.png)
 
 ---
